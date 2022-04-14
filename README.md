@@ -1,1 +1,1 @@
-# Arduino_Hoop_Game
+A Simple Arduino Game Where You Test Your Reaction Time
